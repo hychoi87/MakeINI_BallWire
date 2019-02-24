@@ -1,0 +1,15 @@
+[Result]
+OK
+SubstrateSkew         0.600
+ChipSkew              0.500
+NtcSkew               0.100
+SubstrateBoundary      473  1543   440  1902
+ChipBoundaryOutside    625  1390   591  1179
+ChipBoundaryInside     639  1376   604  1164
+NtcBoundary            643   812  1334  1685
+AlnBoundary            968  1350  1179  1617
+RealLengthPerPixel    1.594
+ChipDisplacement      -1.6  -395.3
+ChipRotation          -0.342
+NtcRotation           0.058
+[/Result]

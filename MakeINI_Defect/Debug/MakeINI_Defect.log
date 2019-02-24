@@ -1,0 +1,128 @@
+﻿빌드 시작: 2017-06-02 오후 3:42:11
+     1>2 노드의 "E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\MakeINI_Defect\MakeINI_Defect.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\MakeINI_BallWire.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MakeINI_BallWire.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MakeINI_BallWire.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BallWire.cpp Defect_BW.cpp FormFirst.cpp MakeINI_Defect.cpp MakeINI_DefectDlg.cpp
+         MakeINI_DefectDlg.cpp
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(540): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(544): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(551): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(555): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(563): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(567): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(571): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(575): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(524): warning C4101: 'INI_Name' :참조되지 않은 지역 변수입니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(522): warning C4101: 'ChkString' :참조되지 않은 지역 변수입니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(522): warning C4101: 'DummyStr' :참조되지 않은 지역 변수입니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(648): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(655): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(659): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(663): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(667): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(671): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(675): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(679): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(683): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(687): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(691): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(693): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(696): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(702): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(703): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(704): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(705): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(706): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(707): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(708): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(709): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(710): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(711): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(714): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(636): warning C4101: 'INI_Name' :참조되지 않은 지역 변수입니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\makeini_defectdlg.cpp(634): warning C4101: 'DummyStr' :참조되지 않은 지역 변수입니다.
+         MakeINI_Defect.cpp
+         FormFirst.cpp
+         Defect_BW.cpp
+         BallWire.cpp
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_X0Offeset' 배열의 요소가 기본으로 초기화됩니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_X1Offeset' 배열의 요소가 기본으로 초기화됩니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_Y0Offeset' 배열의 요소가 기본으로 초기화됩니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_Y1Offeset' 배열의 요소가 기본으로 초기화됩니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_BallNum' 배열의 요소가 기본으로 초기화됩니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_Threshold' 배열의 요소가 기본으로 초기화됩니다.
+     1>e:\hychoi\project\wire_bonding\wb_source20170531\makeini_ballwire\makeini_defect\ballwire.cpp(32): warning C4351: 새로운 동작: 'CBallWire::m_Direction' 배열의 요소가 기본으로 초기화됩니다.
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\MakeINI_Defect.res" MakeINI_Defect.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MakeINI_BallWire.exe.embed.manifest.res" Debug\MakeINI_BallWire_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MakeINI_BallWire.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.lib" /MACHINE:X86 Debug\MakeINI_Defect.res
+         Debug\MakeINI_BallWire.exe.embed.manifest.res
+         Debug\BallWire.obj
+         Debug\Defect_BW.obj
+         Debug\FormFirst.obj
+         Debug\MakeINI_Defect.obj
+         Debug\MakeINI_DefectDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MakeINI_BallWire.exe.embed.manifest" /manifest Debug\MakeINI_BallWire.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MakeINI_BallWire.exe.embed.manifest.res" Debug\MakeINI_BallWire_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MakeINI_BallWire.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.lib" /MACHINE:X86 Debug\MakeINI_Defect.res
+         Debug\MakeINI_BallWire.exe.embed.manifest.res
+         Debug\BallWire.obj
+         Debug\Defect_BW.obj
+         Debug\FormFirst.obj
+         Debug\MakeINI_Defect.obj
+         Debug\MakeINI_DefectDlg.obj
+         Debug\stdafx.obj
+         MakeINI_Defect.vcxproj -> E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\Debug\MakeINI_BallWire.exe
+       FinalizeBuildStatus:
+         "Debug\MakeINI_BallWire.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\MakeINI_BallWire.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"E:\hychoi\project\Wire_Bonding\WB_Source20170531\MakeINI_BallWire\MakeINI_Defect\MakeINI_Defect.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.92
